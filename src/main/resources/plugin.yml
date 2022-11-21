@@ -1,0 +1,5 @@
+name: Palladium
+version: ${git.commit.id.abbrev}
+main: rip.alpha.palladium.PalladiumPlugin
+depend: [Core]
+author: Alpha Development Team
